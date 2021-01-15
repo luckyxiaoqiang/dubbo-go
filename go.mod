@@ -41,7 +41,8 @@ require (
 	github.com/zouyx/agollo/v3 v3.4.5
 	go.uber.org/atomic v1.6.0
 	go.uber.org/zap v1.16.0
-	google.golang.org/grpc v1.26.0
+	google.golang.org/grpc v1.35.0
+	google.golang.org/grpc/examples v0.0.0-20210114222825-938f6e2f7550 // indirect
 	gopkg.in/yaml.v2 v2.2.8
 	k8s.io/api v0.16.9
 	k8s.io/apimachinery v0.16.9
